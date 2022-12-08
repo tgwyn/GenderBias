@@ -1,0 +1,16 @@
+Table 1 - Comparison of CNN models
+Table 2 - Comparison of Datasets
+Figure 1 - CNN Models Initialized by Keras
+Figure 2 - CNN Description
+Figure 3 - AlexNet
+Figure 4 - Inception
+Figure 5 - Xception
+Table 3 - VGG-16 and VGG-19
+Table 4 - Resnet50 and Resnet101
+Figure 6 - WMCA Dataset
+Figure 7 - CASIA-FASD Dataset
+Figure 8 - SiW Database
+Table 5 - Accuracy of CNNs by gender, WMCA
+Table 6 - Accuracy of CNNs by gender, CASIA-FASD
+Table 7 - Accuracy of CNNs by gender, SiW
+Table 8 - Accuracy of CNNs by gender, combined datasets
