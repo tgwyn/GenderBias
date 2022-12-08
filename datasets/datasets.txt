@@ -1,0 +1,10 @@
+WMCA Dataset - sent e-mail to dataset manager.  Access to the dataset is based on an End-User License Agreement, and is restricted to
+non-commercial research.
+https://zenodo.org/record/4580313#.Y44QIXbMJEY
+
+CASIA-FASD - uses a Open Source Initiative approved BSD license.  
+https://pypi.org/project/bob.db.casia-fasd/
+https://en.wikipedia.org/wiki/BSD_licenses
+
+SiW database - available under a license from Michigan State University for research purposes.
+The DRA(Data Release Agreement) has been submitted and uploaded. (As this was the only way to access the dataset)
