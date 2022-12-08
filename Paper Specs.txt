@@ -1,0 +1,32 @@
+1. Introduction
+	1.1 Literature Review
+
+2. Materials and Methods
+	2.1. CNN Variants Used
+	2.2. Image Datasets Used
+	2.3. Python Environment
+
+3. Methodology
+	3.1. CNN Variants Detailed
+		3.1.1. AlexNet
+		3.1.2. Xception
+		3.1.3. VGG-16/VGG-19
+		3.1.4. ResNet50/ResNet101
+		3.1.5. Inception v2/ Inception v3
+	3.2. Image Datasets Detailed
+		3.2.1. Wide Multi Channel Presentation Attack
+		3.2.2. CASIA Face Anti-Spoofing Dataset
+		3.2.3. Spoofing in the Wild (SiW) Database
+
+4. Discussion
+	4.1 Results
+	4.2 Conclusion
+	4.3 Future Work
+
+References
+
+Notes:
+Need 8+ Pages (shouldn't be an issue)
+1.1 Need 5+ references
+3.1.1.- 3.2.3. (8 sections) all need one figure each + one reference
+4.1 Need 3+ figures of results
